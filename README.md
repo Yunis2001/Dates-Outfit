@@ -10,7 +10,7 @@ To get started with the Outfit Inspiration Project, follow these simple steps:
 2.  Navigate to the project directory:
 3. Open the index.html file in your preferred web browser to start exploring outfit ideas.
 
-## Usage
+### Usage
 
 Browse through the collection of outfit ideas to find inspiration for your dinner and brunch occasions. Each outfit suggestion includes a description.
 
