@@ -9,5 +9,13 @@
 
 section{
   display: flex;
-  
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #446841;
+  overflow: hidden;
+  padding: 100px 20px ;
+  box-sizing: border-box;
+
+
 }
