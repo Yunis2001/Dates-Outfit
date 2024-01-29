@@ -55,5 +55,8 @@ section::after {
   display: flex;
   justify-content: center;
   align-items: center; 
-
+  width: 300px;
+  height: 400px;
+  margin: 20px 40px;
+  
 }
