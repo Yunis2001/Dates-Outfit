@@ -47,5 +47,13 @@ section::after {
   justify-content: center;
   align-items: center; 
   z-index: 10;
-  
+  flex-wrap: wrap;
+
+}
+.container.card{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+
 }
