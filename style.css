@@ -84,4 +84,6 @@ section::after {
  .container .card .img img
 {
   max-width: 100%;
-}
+  margin: 0 0 20px;
+  transition: 0.5s ease-in-out;
+} 
