@@ -78,5 +78,5 @@ section::after {
 } 
 .container .card:hover .img 
 {
- 
+  transform: translateY(-100px); 
 }
