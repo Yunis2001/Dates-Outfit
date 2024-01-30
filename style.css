@@ -71,6 +71,6 @@ section::after {
   align-items: center;
   padding: 20px;
   flex-direction: column;
-  
+  transition: 0.5s ease-in-out;
 
 }
