@@ -96,5 +96,9 @@ section::after {
   transform: translate(-20px, -40px) rotate(-25deg) scale(1.4);
 }
 .container .card .content {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   
 }
