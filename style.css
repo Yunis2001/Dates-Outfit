@@ -92,3 +92,6 @@ section::after {
   color: aqua;
   font-weight: 600;
 } 
+.container .card:hover .img img{
+  
+}
