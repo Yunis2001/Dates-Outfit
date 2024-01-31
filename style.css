@@ -93,5 +93,5 @@ section::after {
   font-weight: 600;
 } 
 .container .card:hover .img img{
-  
+  transform: translate(-20px, -40px) rotate(-25deg) scale(1.4);
 }
