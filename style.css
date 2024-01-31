@@ -107,5 +107,5 @@ section::after {
 
 }
 .container .card:hover .content {
-  
+  opacity: 1;
 }
