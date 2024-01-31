@@ -100,9 +100,8 @@ section::after {
   display: flex;
   justify-content: center;
   align-items: center;
-  bottom: 20px;
-  /* transition: 0.5s ease-in-out;  */
-  /* opacity: 0;
-  visibility: hidden; */
+  transition: 0.5s ease-in-out; 
+  opacity: 0;
+  /* visibility: hidden;  */
 
 }
