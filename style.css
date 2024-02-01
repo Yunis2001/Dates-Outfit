@@ -115,6 +115,10 @@ section::after {
 .container .card .content .size
 .container .card .content .color
 {
-  
+  display: flex;
+  justify-content: center;
+  /*align-items: center;
+  padding: 8px, 20px; */
+
 }
 
