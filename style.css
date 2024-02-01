@@ -127,4 +127,6 @@ section::after {
   font-weight: 300;
   font-size: 17px;
   text-transform: uppercase;
+  letter-spacing: 1.5px;
+  /* margin-right: 10px; */
 }
