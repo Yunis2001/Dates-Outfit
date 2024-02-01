@@ -124,4 +124,7 @@ section::after {
 .container .card .content .color h3
 {
   color: #fff;
+  font-weight: 300;
+
+
 }
