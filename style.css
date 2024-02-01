@@ -109,7 +109,7 @@ section::after {
 .container .card:hover .content {
   opacity: 1;
   visibility: visible;
-  /* transform: translateY(-50px);  */
+  transform: translateY(-50px); 
 
 }
 
