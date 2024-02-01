@@ -123,5 +123,5 @@ section::after {
 .container .card .content .size h3,
 .container .card .content .color h3
 {
-
+  color: #fff;
 }
