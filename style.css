@@ -112,7 +112,7 @@ section::after {
   transform: translateY(-50px); 
 
 }
-.container .card .content .size
+.container .card .content .size,
 .container .card .content .color
 {
   display: flex;
@@ -120,4 +120,8 @@ section::after {
   align-items: center;
   padding: 8px, 20px;
 }
+/* .container .card .content .size h3,
+.container .card .content .color h3
+{
 
+} */
