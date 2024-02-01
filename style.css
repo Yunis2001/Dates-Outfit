@@ -117,8 +117,8 @@ section::after {
 {
   display: flex;
   justify-content: center;
-  /*align-items: center;
-  padding: 8px, 20px; */
+  align-items: center;
+  /* padding: 8px, 20px; */ 
 
 }
 
