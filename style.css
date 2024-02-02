@@ -136,8 +136,8 @@ section::after {
   height: 25px;
   text-align: center;
   line-height: 24px; 
- /* display: inline-block;
-  color: #111; 
+  display: inline-block;
+ /* color: #111; 
   background-color: #fff;
   border-radius: 4px;
   font-size: 13px;
