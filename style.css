@@ -157,10 +157,10 @@ section::after {
   width: 20px;
     height: 20px;
     background: rgb(13, 230, 157);
-    /* border-radius: 50%;
+    border-radius: 50%;
     margin: 0.5px;
     border: 2px solid #fff;
-    box-sizing: border-box;
+     /*box-sizing: border-box;
     cursor: pointer; */
 }
 /* 
