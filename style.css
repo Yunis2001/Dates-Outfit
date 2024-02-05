@@ -143,10 +143,67 @@ section::after {
   font-size: 13px;
   margin: 0.5px;
   font-weight: 500;
-  transition: 5s;
+  transition: 0.5s;
   cursor: pointer;
   
 }
 .container .card .content .size .span1:hover {
+  background: #9bdc28;
+} 
 
-}  
+/* .container .card .content .color span
+{
+  width: 20px;
+    height: 20px;
+    background: rgb(13, 230, 157);
+    border-radius: 50%;
+    margin: 0.5px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.container .card .content .size .span2:hover{
+  background:purple;
+
+}
+.container .card .content .size .span3:hover {
+  background: #03a9f4;
+
+}
+.container .card .content .size .span4:hover {
+  background: #e91e63;
+}
+
+.container .card .content .size .span5:hover {
+  background: yellow;
+}
+
+.container .card .content a {
+  position: relative;
+  top: 10px;
+  display: inline-block;
+  padding: 12px 30px;
+  background: #fff;
+  border-radius: 40px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #111;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+
+.container .card .content a:hover {
+  position: relative;
+  top: 10px;
+  display: inline-block;
+  padding: 12px 30px;
+  background: darkred;
+  border-radius: 40px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #111;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+ */
