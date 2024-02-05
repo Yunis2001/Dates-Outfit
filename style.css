@@ -163,11 +163,12 @@ section::after {
     box-sizing: border-box;
     cursor: pointer; 
 }
-/* 
+
 .container .card .content .size .span2:hover{
   background:purple;
 
 }
+/* 
 .container .card .content .size .span3:hover {
   background: #03a9f4;
 
