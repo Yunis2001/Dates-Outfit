@@ -45,7 +45,7 @@ h1{
   font-size: 500;
   background-color: #446841;
   color: darkgrey;
-  
+  padding: 10px 400px;
 }
 .container{
   position: relative;
