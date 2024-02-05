@@ -43,8 +43,9 @@ section::after {
 
 h1{
   font-size: 500;
-  background-color: darkgreen;
-  color: gold;
+  background-color: #446841;
+  color: darkgrey;
+  
 }
 .container{
   position: relative;
