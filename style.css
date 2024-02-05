@@ -17,7 +17,6 @@ section{
   padding: 100px 20px ;
   box-sizing: border-box;
 
-
 }
  section ::before{
   content: "";
@@ -42,6 +41,11 @@ section::after {
   
 }
 
+h1{
+  font-size: 300;
+  background-color: darkgreen;
+  color: gold;
+}
 .container{
   position: relative;
   display: flex;
