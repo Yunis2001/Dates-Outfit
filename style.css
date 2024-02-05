@@ -19,7 +19,7 @@ section{
 
 
 }
-section ::before{
+ section ::before{
   content: "";
   position: fixed;
   top: 0;
@@ -27,7 +27,7 @@ section ::before{
   width: 100%;
   height: 100%;
   background-color: #91928f;
-  clip-path: circle(65% at 100% -20%);
+  clip-path: circle(55% at 100% -20%);
   
 }
 section::after {
@@ -38,7 +38,7 @@ section::after {
   width: 100%;
   height: 100%;
   background: #588307;
-  clip-path: circle(35% at 0% 100%);
+  clip-path: circle(35% at 5% 100%);
   
 }
 
@@ -61,7 +61,7 @@ section::after {
   height: 400px;
   margin: 20px 40px;
   background-color: rgba(64, 194, 60, 0.05); 
-  box-shadow: 0,10px,25px rgb( 0, 0, 0, 0.2); 
+  box-shadow: 0 10px 25px rgba( 0, 0, 0, 0.2); 
   backdrop-filter: blur(15px);
   
 }
@@ -76,7 +76,8 @@ section::after {
   transition: 0.5s ease-in-out;
   cursor: pointer;
 
-} 
+}
+
 .container .card:hover .img 
 {
   transform: translateY(-100px); 
@@ -93,7 +94,7 @@ section::after {
   font-weight: 600;
 } 
 .container .card:hover .img img{
-  transform: translate(-20px, -40px) rotate(-25deg) scale(1.4);
+  transform: translate(-10px-40px);
 }
 .container .card .content {
   position: relative;
@@ -118,29 +119,29 @@ section::after {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 8px, 20px;
+  padding: 8px 20px;
 }
 .container .card .content .size h3,
 .container .card .content .color h3
 {
   color: #fff;
   font-weight: 300;
-  font-size: 17px;
+  font-size: 14px;
   text-transform: uppercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 2px;
   margin-right: 10px;
 }
 .container .card .content .size span
 {
-  width: 25px;
-  height: 25px;
+  width: 26px;
+  height: 26px;
   text-align: center;
   line-height: 24px; 
   display: inline-block;
   color: #111; 
   background-color: #fff;
   border-radius: 4px;
-  font-size: 13px;
+  font-size: 14px;
   margin: 0.5px;
   font-weight: 500;
   transition: 0.5s;
@@ -151,17 +152,18 @@ section::after {
   background: #9bdc28;
 } 
 
-/* .container .card .content .color span
+.container .card .content .color span
 {
   width: 20px;
     height: 20px;
     background: rgb(13, 230, 157);
-    border-radius: 50%;
+    /* border-radius: 50%;
     margin: 0.5px;
     border: 2px solid #fff;
     box-sizing: border-box;
-    cursor: pointer;
+    cursor: pointer; */
 }
+/* 
 .container .card .content .size .span2:hover{
   background:purple;
 
@@ -205,5 +207,5 @@ section::after {
   color: #111;
   text-decoration: none;
   text-transform: uppercase;
-}
- */
+} */
+  
