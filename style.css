@@ -177,11 +177,11 @@ section::after {
 .container .card .content .size .span4:hover {
   background: #e91e63;
 }
-/*
+
 .container .card .content .size .span5:hover {
   background: yellow;
 }
-
+/*
 .container .card .content a {
   position: relative;
   top: 10px;
