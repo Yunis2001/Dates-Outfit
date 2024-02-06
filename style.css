@@ -202,8 +202,8 @@ h1{
   letter-spacing: 1px;
   color: #111;
   text-decoration: none;
- /* text-transform: uppercase;
-  transition: 0.5s; */
+  text-transform: uppercase;
+  transition: 0.5s; 
 }
 /*
 .container .card .content a:hover {
