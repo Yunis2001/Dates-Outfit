@@ -205,18 +205,19 @@ h1{
   text-transform: uppercase;
   transition: 0.5s; 
 }
-/*
-.container .card .content a:hover {
+
+.container .card .content a:hover 
+{
   position: relative;
   top: 10px;
   display: inline-block;
-  padding: 12px 30px;
+  /* padding: 12px 30px;
   background: darkred;
   border-radius: 40px;
   font-weight: 600;
   letter-spacing: 1px;
   color: #111;
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: uppercase; */
 } 
-   */
+
