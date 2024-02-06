@@ -157,7 +157,7 @@ h1{
   cursor: pointer;
   
 }
-/* .container .card .content .size .span1:hover {
+.container .card .content .size .span1:hover {
   background: #9bdc28;
 } 
 
@@ -195,7 +195,7 @@ h1{
   position: relative;
   top: 10px;
   display: inline-block;
-  padding: 12px 30px;
+  /* padding: 12px 30px;
   background: #fff;
   border-radius: 40px;
   font-weight: 600;
@@ -203,9 +203,9 @@ h1{
   color: #111;
   text-decoration: none;
   text-transform: uppercase;
-  transition: 0.5s;
+  transition: 0.5s; */
 }
-
+/*
 .container .card .content a:hover {
   position: relative;
   top: 10px;
